@@ -674,12 +674,7 @@
 95.182.120.241 api.imgur.com
 
 # Intel
-45.155.204.190 intel.com
-95.182.120.241 intel.com
-45.155.204.190 www.intel.com
-95.182.120.241 www.intel.com
-45.155.204.190 geolocation.onetrust.com
-95.182.120.241 geolocation.onetrust.com
+77.239.114.0 www.intel.com
 
 # JetBrains
 45.155.204.190 academy.jetbrains.com
