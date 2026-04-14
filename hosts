@@ -595,6 +595,10 @@
 45.155.204.190 webchannel-alkalimakersuite-pa.clients6.google.com
 95.182.120.241 webchannel-alkalimakersuite-pa.clients6.google.com
 
+# Gemini
+185.87.51.182 gemini.google.com
+185.87.51.182 aistudio.google.com
+
 # Grok
 45.155.204.190 accounts.x.ai
 95.182.120.241 accounts.x.ai
