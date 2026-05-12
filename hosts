@@ -1957,6 +1957,13 @@
 104.25.158.178 finland10198.discord.media
 104.25.158.178 finland10199.discord.media
 
+# Proton
+185.70.42.45 proton.me
+185.70.42.36 account.proton.me
+185.70.42.20 account-api.proton.me
+3.73.85.131 mail.proton.me
+3.66.189.153 mail.proton.me
+
 # Блокировка рекламы и трекеров на основе следующих списков:
 # https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
 # https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
