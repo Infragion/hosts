@@ -1446,6 +1446,36 @@
 77.239.114.0 gew1-dealer.spotify.com
 77.239.114.0 www-growth.scdn.co
 
+77.239.114.0 audio-fa-tls13.spotifycdn.com
+77.239.114.0 audio-fa.scdn.co
+77.239.114.0 canvaz.scdn.co
+77.239.114.0 charts-images.scdn.co
+77.239.114.0 concerts.spotifycdn.com
+77.239.114.0 encore.scdn.co
+77.239.114.0 gew1-spclient.spotify.com
+77.239.114.0 heads-fa-tls13.spotifycdn.com
+77.239.114.0 i-lo.scdn.co
+77.239.114.0 i.scdn.co
+77.239.114.0 image-cdn-fa.spotifycdn.com
+77.239.114.0 mrkt.spotifycdn.com
+77.239.114.0 open-exp.spotifycdn.com
+77.239.114.0 pickasso.spotifycdn.com
+77.239.114.0 podz-content.spotifycdn.com
+77.239.114.0 seed-mix-image.spotifycdn.com
+77.239.114.0 seektables.scdn.co
+77.239.114.0 spclient.wg.spotify.com
+77.239.114.0 spotifycdn.com
+77.239.114.0 spotifycdn.net
+77.239.114.0 t.scdn.co
+77.239.114.0 thisis-images.spotifycdn.com
+77.239.114.0 wap.spotifycdn.com
+77.239.114.0 web-sdk-assets.spotifycdn.com
+77.239.114.0 widget-content.spotify.com
+77.239.114.0 edge-web.dual-gslb.spotify.com
+77.239.114.0 apresolve.spotify.com
+77.239.114.0 edge-web-gew1.dual-gslb.spotify.com
+77.239.114.0 edge-web-gue1.dual-gslb.spotify.com
+
 # Strava
 45.155.204.190 blog.strava.com
 95.182.120.241 blog.strava.com
